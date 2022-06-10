@@ -1,22 +1,17 @@
-<<<<<<< HEAD
-#title{
-  background-color: #ff4c68;
-}
-h1 {  font-family: 'Montserrat';  font-size: 3rem;  line-height: 1.5;  font-weight: 900;}
-=======
-body{
+body {
   font-family: 'Montserrat', sans-serif;
   font-weight: 400;
 }
-#title{
+
+#title {
   background-color: #ff4c68;
 }
 
-.container-fluid{
+.container-fluid {
   padding: 3% 15%;
 }
 
-h1{
+h1 {
   font-family: 'Montserrat', sans-serif;
   font-size: 3rem;
   line-height: 1.5;
@@ -25,4 +20,3 @@ h1{
 }
 
 /* Navigation Bar */
->>>>>>> 7b81cc3729c27792e46d280088ce89ae49fc0dcb
